@@ -1,0 +1,14 @@
+layout_spectrum: 0.9212766
+color:
+  saturation: 0.9419401
+  lightness: 0
+  brandStrength: 0.8553191
+  brandColors:
+    - '#18171C'
+    - '#6292D5'
+    - '#82AEDB'
+    - '#C8A17D'
+    - '#757068'
+  rhythmicContrast: 0.4324835
+typography_spectrum: 0.5574468
+name: Hi-Post
